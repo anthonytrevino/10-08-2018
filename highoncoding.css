@@ -1,0 +1,14 @@
+#nav {
+  background-color:lightblue;
+  width:100%;
+  height:10%;
+  margin-bottom:50px;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+
+#pageBody {
+  background-color:green;
+  justify-content:space-between;
+}
